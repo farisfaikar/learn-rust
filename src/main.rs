@@ -30,5 +30,4 @@ fn main() {
     cli::run();
 
     // println!("Hello, world!");
-    // test
 }
